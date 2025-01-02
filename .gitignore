@@ -1,0 +1,6 @@
+config.txt
+javascript.js
+data/
+*.exe
+
+# atau menggunakan web gitignore.io
